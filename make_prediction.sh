@@ -25,4 +25,4 @@ curl -d '{
    }
 }'\
      -H "Content-Type: application/json" \
-     -X POST 172.17.0.6:$PORT/predict
+     -X POST localhost:$PORT/predict
