@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/circleci/circleci-docs/tree/teesloane-patch-5.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs/tree/teesloane-patch-5)
+[![quaternioneer](https://circleci.com/gh/quaternioneer/project-ml-microservice-kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/Quaternioneer/project-ml-microservice-kubernetes)
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API.
